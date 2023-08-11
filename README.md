@@ -14,8 +14,6 @@ Greetings 👋 I’m a full stack developer with a passion for building web appl
 <a href="https://www.github.com/shakib2123" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/shakib2123?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-### Skills
-
 
 ### Socials
 
