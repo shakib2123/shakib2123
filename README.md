@@ -1,14 +1,40 @@
-### Hi there 👋
+https://scontent.fcgp1-1.fna.fbcdn.net/v/t39.30808-6/362609548_165634919867494_2748631696050578605_n.jpg?stp=dst-jpg_s960x960&_nc_cat=106&ccb=1-7&_nc_sid=300f58&_nc_eui2=AeHIKDBW8nssoixNJ-5s3G3pYWg4rbO_1iphaDits7_WKrh_6_I5yWlAtLFd_dN7V-9sjwbDw4hjKBU9W-qCKicf&_nc_ohc=OJVNS__Q_T4AX8HUcmL&_nc_zt=23&_nc_ht=scontent.fcgp1-1.fna&oh=00_AfD6O8y31UqgMcOMQwcBACSNhiZUzkDJEQNV3-VA7IM_2g&oe=64DB28DB
+Hi 👋 My name is Md. Shakib Al Hasan
+====================================
 
-**shakib2123/shakib2123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web developer
+-------------
 
-Here are some ideas to get you started:
+Greetings 👋 I’m a full stack developer with a passion for building web applications that are user-friendly, responsive, and secure. I have expertise in various technologies such as HTML, CSS, JavaScript, React, Node.js, MongoDB, and more. I’m always eager to learn new skills and tackle new challenges. I’m open to collaborate on exciting projects and share my insights with others. You can view some of my work below or reach me through email or LinkedIn. Thank you for visiting my profile and have a wonderful day! 😊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+* 🌍  I'm based in Bangladesh
+* ✉️  You can contact me at [mshakibalhasan21@gmail.com](mailto:mshakibalhasan21@gmail.com)
+* 🧠  I'm learning Java Script
+
+<a href="https://www.github.com/shakib2123" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/shakib2123?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+### Skills
+
+
+<p align="left">
+ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.facebook.com/Md. Shakib Al Hasan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/shakib2123" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/shakib2123"><img src="https://github-readme-stats.vercel.app/api?username=shakib2123&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="shakib2123's GitHub stats" /></a>
+
+<a href="http://www.github.com/shakib2123"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shakib2123&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/shakib2123"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=shakib2123&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/shakib2123" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakib2123&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
