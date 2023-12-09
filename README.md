@@ -5,9 +5,13 @@
 I am a passionate full-stack web developer with a deep love for technology and a constant drive to explore new advancements. Currently, my focus is on mastering technologies like Next.js and Material-UI, as I believe in staying at the forefront of innovation. Committed to continuous learning, I am dedicated to honing my skills and expanding my knowledge base. With a vision for growth, my goal is to evolve into a senior web developer within the next three years. Excited to contribute to and thrive in the dynamic world of web development.
 
 
-* 🌍  I'm based in Bangladesh
-* ✉️  You can contact me at [mshakibalhasan21@gmail.com](mailto:mshakibalhasan21@gmail.com)
-* 🧠  I'm learning Java Script
+## 💼 What I Do
+- Full Stack Web Development
+- Crafting seamless and user-friendly websites
+- Leveraging React.js and JavaScript to build dynamic and responsive applications
+
+
+<br />
 
 ## :mailbox: Contact Info
 
