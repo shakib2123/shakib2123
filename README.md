@@ -1,6 +1,9 @@
 ![shakib's cover](https://raw.githubusercontent.com/shakib2123/shakib2123/main/github-banner.png)
 
-# Hey there, I'm **_Md. Shakib Al Hasan_** a passionate full-stack web alchemist on a perpetual journey through the ever-evolving landscape of technology.
+# Hey there, I'm **_Md. Shakib Al Hasan_**
+### a passionate full-stack web alchemist on a perpetual journey through the ever-evolving landscape of technology.
+
+<br/>
 
 ### 💡 What I Do
 
