@@ -35,7 +35,7 @@ I am a passionate full-stack web developer with a deep love for technology and a
 ## :computer: Technologies that I know
 
 <br>
-<p align="center">
+<p>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
