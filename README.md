@@ -1,4 +1,4 @@
-![shakib's cover](https://raw.githubusercontent.com/shakib2123/shakib2123/main/Shakib-github-banner.png)
+![shakib's cover](https://raw.githubusercontent.com/shakib2123/shakib2123/main/github-banner.png)
 
 # Hi, I'm **_Md. Shakib Al Hasan_**
 
