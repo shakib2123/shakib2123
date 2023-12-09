@@ -51,9 +51,6 @@ I am a passionate full-stack web developer with a deep love for technology and a
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
 </p><br/>
 
-<a href="https://www.github.com/shakib2123" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/shakib2123?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 
 
 ### Badges
