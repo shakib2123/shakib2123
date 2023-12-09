@@ -9,9 +9,26 @@
 * ✉️  You can contact me at [mshakibalhasan21@gmail.com](mailto:mshakibalhasan21@gmail.com)
 * 🧠  I'm learning Java Script
 
-### Socials
+### Contact Info
 
-<p align="left"> <a href="https://www.facebook.com/Md. Shakib Al Hasan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/en/0/04/Facebook_f_logo_%282021%29.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/shakib2123" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+
+<a href="mailto:mshakibalhasan21@gmail.com">
+    <img src="https://img.shields.io/badge/Email_me-323330?style=for-the-badge&logo=Gmail&logoColor=white" />
+</a>
+ <a href="https://www.linkedin.com/in/md-shakib-al-hasan21/">
+       <img src="https://img.shields.io/badge/Linkedin-323330?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+<!--  <a href="https://www.facebook.com/yeasin2002.dev/">
+       <img src="https://img.shields.io/badge/Facebook-323330?style=for-the-badge&logo=facebook&logoColor=white" />
+    </a> -->
+     <a href="https://github.com/shakib2123">
+       <img src="https://img.shields.io/badge/GitHub-323330?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+<!-- <a href="#">
+       <img src="https://img.shields.io/badge/Twitter-323330?style=for-the-badge&logo=twitter&logoColor=white" />
+    </a> -->
+
+<br  />
 
 
 
