@@ -1,11 +1,16 @@
-![I am GitHub Readme Generator's creator](https://scontent.fcgp1-1.fna.fbcdn.net/v/t39.30808-6/362609548_165634919867494_2748631696050578605_n.jpg?stp=dst-jpg_s960x960&_nc_cat=106&ccb=1-7&_nc_sid=300f58&_nc_eui2=AeHIKDBW8nssoixNJ-5s3G3pYWg4rbO_1iphaDits7_WKrh_6_I5yWlAtLFd_dN7V-9sjwbDw4hjKBU9W-qCKicf&_nc_ohc=OJVNS__Q_T4AX8HUcmL&_nc_zt=23&_nc_ht=scontent.fcgp1-1.fna&oh=00_AfD6O8y31UqgMcOMQwcBACSNhiZUzkDJEQNV3-VA7IM_2g&oe=64DB28DB)
-Hi 👋 My name is Md. Shakib Al Hasan
-====================================
+![yeasin's cover](kawser.png)
 
-Web developer
--------------
+# Hi, I'm **_Md Kawsar Islam Yeasin_**
 
-Greetings 👋 I’m a full stack developer with a passion for building web applications that are user-friendly, responsive, and secure. I have expertise in various technologies such as HTML, CSS, JavaScript, React, Node.js, MongoDB, and more. I’m always eager to learn new skills and tackle new challenges. I’m open to collaborate on exciting projects and share my insights with others. You can view some of my work below or reach me through email or LinkedIn. Thank you for visiting my profile and have a wonderful day! 😊
+#### I’m a front-end web developer From Dhaka, Bangladesh, also familiar with Back End.  Loves to Talk about Technology, Software, Coding, And Ideas ✌️
+
+Currently, **I'm open to work and employment opportunities nearby Dhaka or Remote**.
+
+- 🌱 I’m currently learning many things Such as Nextjs ,Zustand, JavaScript and TypeScript Advance,
+- 👯 I’m currently open for work and searching for an internship nearby Dhaka to enhance my skill.
+- 💬 Ask me about JavaScript,React.js.
+- 💖 I love to help new learners and share my knowledge with them.Besides I love to create network with the senior developers and learn from them.
+- 🏫 We have a great community called [wd hive](https://github.com/wdhive) , Also have [Messenger](https://l.messenger.com/l.php?u=https%3A%2F%2Fm.me%2Fj%2FAbYRqd07CPovLcls%2F&h=AT3omrCWUUMjE7qdoriL7gyIBQllWEPuFFSKeL1j7ywpWMAZX-x6rCaRmzsT9zjRihEcl2wwa549Z0gS-t3smUB1DQ9H3kjRPA1LWiBqtkedfdFnxaoMeTLho7TMLNiF95L5GA) group where greeks help each other since last two year.Luckily I'm the **Founder** of that group
 
 * 🌍  I'm based in Bangladesh
 * ✉️  You can contact me at [mshakibalhasan21@gmail.com](mailto:mshakibalhasan21@gmail.com)
