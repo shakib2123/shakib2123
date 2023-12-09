@@ -1,8 +1,8 @@
-![shakib's cover]()
+![shakib's cover](https://raw.githubusercontent.com/shakib2123/shakib2123/main/Shakib-github-banner.png)
 
 # Hi, I'm **_Md. Shakib Al Hasan_**
 
--- I am a passionate full-stack web developer with a deep love for technology and a constant drive to explore new advancements. Currently, my focus is on mastering technologies like Next.js and Material-UI, as I believe in staying at the forefront of innovation. Committed to continuous learning, I am dedicated to honing my skills and expanding my knowledge base. With a vision for growth, my goal is to evolve into a senior web developer within the next three years. Excited to contribute to and thrive in the dynamic world of web development.
+I am a passionate full-stack web developer with a deep love for technology and a constant drive to explore new advancements. Currently, my focus is on mastering technologies like Next.js and Material-UI, as I believe in staying at the forefront of innovation. Committed to continuous learning, I am dedicated to honing my skills and expanding my knowledge base. With a vision for growth, my goal is to evolve into a senior web developer within the next three years. Excited to contribute to and thrive in the dynamic world of web development.
 
 
 * 🌍  I'm based in Bangladesh
