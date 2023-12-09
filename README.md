@@ -7,11 +7,11 @@ A passionate full-stack web alchemist on a perpetual journey through the ever-ev
 
 ## About Me
 
-👋 Full Stack Developer passionate about crafting user-friendly websites.
-🚀 Tech enthusiast on a perpetual learning journey.
-💻 Specialized in creating seamless digital experiences.
-🌐 Always exploring new technologies and frameworks.
-🔗 Let's connect and build the future of the web together!
+- 👋 Full Stack Developer passionate about crafting user-friendly websites.
+- 🚀 Tech enthusiast on a perpetual learning journey.
+- 💻 Specialized in creating seamless digital experiences.
+- 🌐 Always exploring new technologies and frameworks.
+- 🔗 Let's connect and build the future of the web together!
 
 
 ### 💡 What I Do
