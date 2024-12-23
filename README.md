@@ -1,15 +1,73 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you. I'm Shakib Al Furqan</h1>
 
 <a href="https://www.facebook.com/">
-  <img src="https://github.com/shakib2123/shakib2123/blob/main/banner.png" width="full"/> 
+  <img src="./images/banner/banner.png" width="full"/> 
 </a>
 
-## :chart_with_upwards_trend: Current Stats
+## :chart_with_upwards_trend:📈 Current Stats
 
 <br />
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=shakib2123&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
+
+<h2 align="left">💻 Technologies that I know</h2>
+
+> Tools, languages, and other things that I like to work with.
+
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+
+  <div style="width: 96px; text-align: center; margin: 10px; border: 1px solid #2d3748; padding: 10px; border-radius: 10px; background-color: #161C27;">
+      <img src="./images/skills/html-5.svg" width="48" height="48" alt="HTML">
+      <br>HTML
+  </div>
+
+  <div style="width: 96px; text-align: center; margin: 10px; border: 1px solid #2d3748; padding: 10px; border-radius: 10px; background-color: #161C27;">
+      <img src="./images/skills/official_CSS_logo.svg" width="48" height="48" alt="CSS">
+      <br>CSS
+  </div>
+
+  <div style="width: 96px; text-align: center; margin: 10px; border: 1px solid #2d3748; padding: 10px; border-radius: 10px; background-color: #161C27;">
+      <img src="./images/skills/javascript.svg" width="48" height="48" alt="javascript">
+      <br>JavaScript
+  </div>
+
+  <div style="width: 96px; text-align: center; margin: 10px; border: 1px solid #2d3748; padding: 10px; border-radius: 10px; background-color: #161C27;">
+      <img src="./images/skills/typescript.svg" width="48" height="48" alt="typescript">
+      <br>TypeScript
+  </div>
+
+  <div style="width: 96px; text-align: center; margin: 10px; border: 1px solid #2d3748; padding: 10px; border-radius: 10px; background-color: #161C27;">
+      <img src="./images/skills/react.svg" width="48" height="48" alt="react">
+      <br>React
+  </div>
+
+<div style="width: 96px; text-align: center; margin: 10px; border: 1px solid #2d3748; padding: 10px; border-radius: 10px; background-color: #161C27;">
+      <img src="./images/skills/nextjs.svg" width="48" height="48" alt="nextjs" style="background-color: #fff; border-radius: 50%;">
+      <br>Next JS
+  </div>
+
+  <div style="width: 96px; text-align: center; margin: 10px; border: 1px solid #2d3748; padding: 10px; border-radius: 10px; background-color: #161C27;">
+      <img src="./images/skills/redux.svg" width="48" height="48" alt="redux">
+      <br>Redux
+  </div>
+
+   <div style="width: 96px; text-align: center; margin: 10px; border: 1px solid #2d3748; padding: 10px; border-radius: 10px; background-color: #161C27;">
+      <img src="./images/skills/tailwind.svg" width="48" height="48" alt="tailwind">
+      <br>Tailwind
+  </div>
+
+  <div style="width: 96px; text-align: center; margin: 10px; border: 1px solid #2d3748; padding: 10px; border-radius: 10px; background-color: #161C27;">
+      <img src="./images/skills/bootstrap.svg" width="56" height="48" alt="bootstrap">
+      <br>Bootstrap
+  </div>
+
+  <div style="width: 96px; text-align: center; margin: 10px; border: 1px solid #2d3748; padding: 10px; border-radius: 10px; background-color: #161C27;">
+      <img src="./images/skills/firebase.svg" width="56" height="48" alt="firebase">
+      <br>Firebase
+  </div>
+
+</div>
 
 ## About Me
 
