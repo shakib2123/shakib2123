@@ -1,3 +1,5 @@
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+
 ![shakib's cover](https://raw.githubusercontent.com/shakib2123/shakib2123/main/github-banner.png)
 
 ## :chart_with_upwards_trend: Current Stats
