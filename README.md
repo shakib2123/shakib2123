@@ -1,9 +1,11 @@
 ![shakib's cover](https://raw.githubusercontent.com/shakib2123/shakib2123/main/github-banner.png)
 
-# Hey there, I'm **_Shakib Al Furqan_**
-A passionate full-stack web alchemist on a perpetual journey through the ever-evolving landscape of technology.
+## :chart_with_upwards_trend: Current Stats
 
-<br/>
+<br />
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=shakib2123&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+</p>
 
 ## About Me
 
