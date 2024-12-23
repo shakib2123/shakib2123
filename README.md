@@ -15,7 +15,7 @@
 
 > Tools, languages, and other things that I like to work with.
 
-<p align="center" >
+<p align="center">
   <img src="./images/skills/html-5.png" />
   <img src="./images/skills/CSS_logo.png" />
   <img src="./images/skills/javascript.png" />
@@ -26,6 +26,13 @@
   <img src="./images/skills/tailwind.png" />
   <img src="./images/skills/bootstrap.png" />
   <img src="./images/skills/firebase.png" />
+</p>
+<p align="center">
+  <img src="./images/skills/nodejs-icon.png" />
+  <img src="./images/skills/express.png" />
+  <img src="./images/skills/mongodb.png" />
+  <img src="./images/skills/postgresql.png" />
+  <img src="./images/skills/prisma.png" />
 </p>
 
 ## About Me
