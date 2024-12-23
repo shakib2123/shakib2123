@@ -4,7 +4,7 @@
   <img src="./images/banner/banner.png" width="full"/> 
 </a>
 
-## :chart_with_upwards_trend:📈 Current Stats
+## :chart_with_upwards_trend: Current Stats
 
 <br />
 <p align="center">
@@ -15,17 +15,17 @@
 
 > Tools, languages, and other things that I like to work with.
 
-<p align="center">
-  <img src="./images/skills/html-5.svg" />
-  <img src="./images/skills/official_CSS_logo.svg" />
-  <img src="./images/skills/javascript.svg" />
-  <img src="./images/skills/typescript.svg" />
-  <img src="./images/skills/react.svg" />
-  <img src="./images/skills/nextjs.svg" />
-  <img src="./images/skills/redux.svg" />
-  <img src="./images/skills/tailwind.svg" />
-  <img src="./images/skills/bootstrap.svg" />
-  <img src="./images/skills/firebase.svg" />
+<p align="center" >
+  <img src="./images/skills/html-5.png" />
+  <img src="./images/skills/CSS_logo.png" />
+  <img src="./images/skills/javascript.png" />
+  <img src="./images/skills/typescript.png" />
+  <img src="./images/skills/react.png" />
+  <img src="./images/skills/nextjs.png" />
+  <img src="./images/skills/redux.png" />
+  <img src="./images/skills/tailwind.png" />
+  <img src="./images/skills/bootstrap.png" />
+  <img src="./images/skills/firebase.png" />
 </p>
 
 ## About Me
