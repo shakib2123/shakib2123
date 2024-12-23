@@ -15,7 +15,7 @@
 
 > Tools, languages, and other things that I like to work with.
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+<div display="flex" justify-content="center" flex-wrap="wrap">
 
   <div style="width: 96px; text-align: center; margin: 10px; border: 1px solid #2d3748; padding: 10px; border-radius: 10px; background-color: #161C27;">
       <img src="./images/skills/html-5.svg" width="48" height="48" alt="HTML">
