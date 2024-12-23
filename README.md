@@ -11,6 +11,8 @@
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=shakib2123&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
 
+>
+
 <h2 align="left">💻 Technologies that I know</h2>
 
 > Tools, languages, and other things that I like to work with.
@@ -93,23 +95,16 @@ specializing in:
 
 ## :mailbox: Contact Info
 
-<a href="mailto:mshakibalhasan21@gmail.com">
+<a href="mailto:shakibalfurqan@gmail.com">
     <img src="https://img.shields.io/badge/Email_me-323330?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
- <a href="https://www.linkedin.com/in/md-shakib-al-hasan21/">
-       <img src="https://img.shields.io/badge/Linkedin-323330?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-<!--  <a href="https://www.facebook.com/yeasin2002.dev/">
-       <img src="https://img.shields.io/badge/Facebook-323330?style=for-the-badge&logo=facebook&logoColor=white" />
-    </a> -->
      <a href="https://github.com/shakib2123">
        <img src="https://img.shields.io/badge/GitHub-323330?style=for-the-badge&logo=github&logoColor=white" />
     </a>
-<!-- <a href="#">
-       <img src="https://img.shields.io/badge/Twitter-323330?style=for-the-badge&logo=twitter&logoColor=white" />
-    </a> -->
 
 <br  />
+
+## :bar_chart: GitHub Stats
 
 <a href="http://www.github.com/shakib2123"><img src="https://github-readme-stats.vercel.app/api?username=shakib2123&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="shakib2123's GitHub stats" /></a>
 
