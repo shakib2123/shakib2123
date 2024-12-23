@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <a href="https://www.facebook.com/">
-  <img src="https://raw.githubusercontent.com/shakib2123/shakib2123/main/github-banner.png" width="full"/> 
+  <img src="https://github.com/shakib2123/shakib2123/blob/main/banner.png" width="full"/> 
 </a>
 
 ## :chart_with_upwards_trend: Current Stats
@@ -19,46 +19,55 @@
 - 🌐 Always exploring new technologies and frameworks.
 - 🔗 Let's connect and build the future of the web together!
 
-
 ### 💡 What I Do
 
-I craft digital wonders and shape seamless online experiences. My toolbox includes mastering the arcane arts of Next.js and conjuring elegant interfaces with the enchanting Material-UI etc.
+I craft digital wonders and shape seamless online experiences. My toolbox
+includes mastering the arcane arts of Next.js and conjuring elegant interfaces
+with the enchanting Material-UI etc.
 
 ### 🌌 Staying Ahead
 
-In this ever-shifting tech cosmos, I'm not just keeping pace; I'm at the forefront of innovation. My quest is to explore the uncharted realms of possibility and turn the unknown into the familiar.
+In this ever-shifting tech cosmos, I'm not just keeping pace; I'm at the
+forefront of innovation. My quest is to explore the uncharted realms of
+possibility and turn the unknown into the familiar.
 
 ### 📚 Continuous Learning
 
-I'm not just a developer; I'm a perpetual student of the digital arts. Committed to the sacred vow of continuous learning, I forge ahead, refining my skills and expanding my knowledge base.
+I'm not just a developer; I'm a perpetual student of the digital arts. Committed
+to the sacred vow of continuous learning, I forge ahead, refining my skills and
+expanding my knowledge base.
 
 ### 🌱 Growth Vision
 
-With a crystal-clear vision for growth, my trajectory is set to ascend. In the next three orbits around the sun, I'm destined to metamorphose into a seasoned Senior Web Developer.
+With a crystal-clear vision for growth, my trajectory is set to ascend. In the
+next three orbits around the sun, I'm destined to metamorphose into a seasoned
+Senior Web Developer.
 
 ### ✨ Thriving in Dynamism
 
-Excitement fuels my journey as I embrace the dynamic world of web development. Join me on this adventure, and let's craft the future together.
+Excitement fuels my journey as I embrace the dynamic world of web development.
+Join me on this adventure, and let's craft the future together.
 
 ### 🚀 Ready to Collaborate
 
-Thrilled about contributing to impactful projects, I'm all ears for opportunities to collaborate and bring magic to the digital realm.
-
-
+Thrilled about contributing to impactful projects, I'm all ears for
+opportunities to collaborate and bring magic to the digital realm.
 
 ## ✨ Expertise in the Digital Atelier
 
-In the enchanting realm of code, I orchestrate symphonies of digital artistry, specializing in:
+In the enchanting realm of code, I orchestrate symphonies of digital artistry,
+specializing in:
 
-- **Full Stack Web Mastery:** Weaving intricate webs of functionality and aesthetics.
-- **Artisanal Web Craftsmanship:** Sculpting seamless and user-friendly online experiences.
-- **Wizardry with React.js:** Conjuring dynamic and responsive applications that dance with the user's every interaction.
-
+- **Full Stack Web Mastery:** Weaving intricate webs of functionality and
+  aesthetics.
+- **Artisanal Web Craftsmanship:** Sculpting seamless and user-friendly online
+  experiences.
+- **Wizardry with React.js:** Conjuring dynamic and responsive applications that
+  dance with the user's every interaction.
 
 <br />
 
 ## :mailbox: Contact Info
-
 
 <a href="mailto:mshakibalhasan21@gmail.com">
     <img src="https://img.shields.io/badge/Email_me-323330?style=for-the-badge&logo=Gmail&logoColor=white" />
@@ -78,8 +87,6 @@ In the enchanting realm of code, I orchestrate symphonies of digital artistry, s
 
 <br  />
 
-
-
 ## :computer: Technologies that I know
 
 <br>
@@ -93,16 +100,12 @@ In the enchanting realm of code, I orchestrate symphonies of digital artistry, s
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
 
-
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
 </p><br/>
 
-
-
 ## :chart_with_upwards_trend: Current Stats
-
 
 <a href="http://www.github.com/shakib2123"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shakib2123&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
