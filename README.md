@@ -15,50 +15,18 @@
 
 > Tools, languages, and other things that I like to work with.
 
-<table>
-  <tr width="100%" overflow="auto">
-    <td align="center" width="96">
-        <img src="./images/skills/html-5.svg" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-        <img src="./images/skills/official_CSS_logo.svg" width="48" height="48" alt="CSS" />
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-        <img src="./images/skills/javascript.svg" width="48" height="48" alt="Javascript" />
-      <br>Javascript
-    </td>
-    <td align="center" width="96">
-        <img src="./images/skills/typescript.svg" width="48" height="48" alt="Typescript" />
-      <br>Typescript
-    </td>
-    <td align="center" width="96">
-        <img src="./images/skills/react.svg" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-        <img src="./images/skills/nextjs.svg" width="48" height="48" alt="Next js" />
-      <br>Next JS
-    </td>
-    <td align="center" width="96">
-        <img src="./images/skills/redux.svg" width="48" height="48" alt="Redux" />
-      <br>Redux
-    </td>
-    <td align="center" width="96">
-        <img src="./images/skills/tailwind.svg" width="48" height="48" alt="Tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-        <img src="./images/skills/bootstrap.svg" width="48" height="48" alt="Bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-        <img src="./images/skills/firebase.svg" width="48" height="48" alt="Firebase" />
-      <br>Firebase
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./images/skills/html-5.svg" />
+  <img src="./images/skills/official_CSS_logo.svg" />
+  <img src="./images/skills/javascript.svg" />
+  <img src="./images/skills/typescript.svg" />
+  <img src="./images/skills/react.svg" />
+  <img src="./images/skills/nextjs.svg" />
+  <img src="./images/skills/redux.svg" />
+  <img src="./images/skills/tailwind.svg" />
+  <img src="./images/skills/bootstrap.svg" />
+  <img src="./images/skills/firebase.svg" />
+</p>
 
 ## About Me
 
@@ -135,28 +103,6 @@ specializing in:
     </a> -->
 
 <br  />
-
-## :computer: Technologies that I know
-
-<br>
-<p>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
-
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
-
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
-</p><br/>
-
-## :chart_with_upwards_trend: Current Stats
-
-<a href="http://www.github.com/shakib2123"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shakib2123&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/shakib2123"><img src="https://github-readme-stats.vercel.app/api?username=shakib2123&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="shakib2123's GitHub stats" /></a>
 
