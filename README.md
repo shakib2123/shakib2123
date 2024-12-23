@@ -15,59 +15,50 @@
 
 > Tools, languages, and other things that I like to work with.
 
-<div display="flex" justify-content="center" flex-wrap="wrap">
-
-  <div style="width: 96px; text-align: center; margin: 10px; border: 1px solid #2d3748; padding: 10px; border-radius: 10px; background-color: #161C27;">
-      <img src="./images/skills/html-5.svg" width="48" height="48" alt="HTML">
+<table>
+  <tr width="100%" overflow="auto">
+    <td align="center" width="96">
+        <img src="./images/skills/html-5.svg" width="48" height="48" alt="HTML" />
       <br>HTML
-  </div>
-
-  <div style="width: 96px; text-align: center; margin: 10px; border: 1px solid #2d3748; padding: 10px; border-radius: 10px; background-color: #161C27;">
-      <img src="./images/skills/official_CSS_logo.svg" width="48" height="48" alt="CSS">
+    </td>
+    <td align="center" width="96">
+        <img src="./images/skills/official_CSS_logo.svg" width="48" height="48" alt="CSS" />
       <br>CSS
-  </div>
-
-  <div style="width: 96px; text-align: center; margin: 10px; border: 1px solid #2d3748; padding: 10px; border-radius: 10px; background-color: #161C27;">
-      <img src="./images/skills/javascript.svg" width="48" height="48" alt="javascript">
-      <br>JavaScript
-  </div>
-
-  <div style="width: 96px; text-align: center; margin: 10px; border: 1px solid #2d3748; padding: 10px; border-radius: 10px; background-color: #161C27;">
-      <img src="./images/skills/typescript.svg" width="48" height="48" alt="typescript">
-      <br>TypeScript
-  </div>
-
-  <div style="width: 96px; text-align: center; margin: 10px; border: 1px solid #2d3748; padding: 10px; border-radius: 10px; background-color: #161C27;">
-      <img src="./images/skills/react.svg" width="48" height="48" alt="react">
+    </td>
+    <td align="center" width="96">
+        <img src="./images/skills/javascript.svg" width="48" height="48" alt="Javascript" />
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+        <img src="./images/skills/typescript.svg" width="48" height="48" alt="Typescript" />
+      <br>Typescript
+    </td>
+    <td align="center" width="96">
+        <img src="./images/skills/react.svg" width="48" height="48" alt="React" />
       <br>React
-  </div>
-
-<div style="width: 96px; text-align: center; margin: 10px; border: 1px solid #2d3748; padding: 10px; border-radius: 10px; background-color: #161C27;">
-      <img src="./images/skills/nextjs.svg" width="48" height="48" alt="nextjs" style="background-color: #fff; border-radius: 50%;">
+    </td>
+    <td align="center" width="96">
+        <img src="./images/skills/nextjs.svg" width="48" height="48" alt="Next js" />
       <br>Next JS
-  </div>
-
-  <div style="width: 96px; text-align: center; margin: 10px; border: 1px solid #2d3748; padding: 10px; border-radius: 10px; background-color: #161C27;">
-      <img src="./images/skills/redux.svg" width="48" height="48" alt="redux">
+    </td>
+    <td align="center" width="96">
+        <img src="./images/skills/redux.svg" width="48" height="48" alt="Redux" />
       <br>Redux
-  </div>
-
-   <div style="width: 96px; text-align: center; margin: 10px; border: 1px solid #2d3748; padding: 10px; border-radius: 10px; background-color: #161C27;">
-      <img src="./images/skills/tailwind.svg" width="48" height="48" alt="tailwind">
+    </td>
+    <td align="center" width="96">
+        <img src="./images/skills/tailwind.svg" width="48" height="48" alt="Tailwind" />
       <br>Tailwind
-  </div>
-
-  <div style="width: 96px; text-align: center; margin: 10px; border: 1px solid #2d3748; padding: 10px; border-radius: 10px; background-color: #161C27;">
-      <img src="./images/skills/bootstrap.svg" width="56" height="48" alt="bootstrap">
+    </td>
+    <td align="center" width="96">
+        <img src="./images/skills/bootstrap.svg" width="48" height="48" alt="Bootstrap" />
       <br>Bootstrap
-  </div>
-
-  <div style="width: 96px; text-align: center; margin: 10px; border: 1px solid #2d3748; padding: 10px; border-radius: 10px; background-color: #161C27;">
-      <img src="./images/skills/firebase.svg" width="56" height="48" alt="firebase">
+    </td>
+    <td align="center" width="96">
+        <img src="./images/skills/firebase.svg" width="48" height="48" alt="Firebase" />
       <br>Firebase
-  </div>
-
-</div>
+    </td>
+  </tr>
+</table>
 
 ## About Me
 
