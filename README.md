@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you. I'm Shakib Al Furqan</h1>
 
 <a href="https://www.facebook.com/">
-  <img src="./images/banner/banner.png" width="full"/> 
+  <img src="./images/banner/banner-img.png" width="full"/> 
 </a>
 
 ## :chart_with_upwards_trend: Current Stats
