@@ -95,7 +95,7 @@ specializing in:
 
 ## :mailbox: Contact Info
 
-<a href="mailto:shakibalfurqan@gmail.com">
+<a href="mailto:shakibalfurkan@gmail.com">
     <img src="https://img.shields.io/badge/Email_me-323330?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
      <a href="https://github.com/shakib2123">
